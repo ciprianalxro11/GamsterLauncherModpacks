@@ -19,6 +19,9 @@
 	 {
       "title": "LabyMod",
       "mcversion": "1.16.5"
-    }
+    },
+	 {
+      "title": "BatMod",
+      "mcversion": "1.8.8"
   ]
 }
